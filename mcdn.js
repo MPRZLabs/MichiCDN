@@ -1,5 +1,5 @@
 var tdwfb_config = {
-	disableDate: true
+	disableDate: false
 };
 window._idl = {};
 _idl.variant = "modal";
